@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//and ,or oprator
+//if-else statements 
 int main(){
     int marks;
 
