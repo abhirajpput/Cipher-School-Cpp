@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-//if-else statements 
+//if-else statements
+// or and operator 
 int main(){
     int marks;
 
